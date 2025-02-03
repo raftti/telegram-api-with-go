@@ -1,0 +1,28 @@
+# Environment variables
+.env
+
+# Session data
+session.data
+user_status.json
+last_status.json
+
+# IDE files
+.idea/
+.vscode/
+
+# Binaries
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories
+vendor/ 
